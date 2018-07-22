@@ -1,0 +1,9 @@
+# @author    Chorke Inc<devs@chorke.org>
+# @vendor    Chorke, Inc.
+# @web       chorke.org
+# @version   1.0.00.GA
+# @since     1.0.00.GA
+#
+#
+# prevent directroy indexing
+IndexIgnore *
